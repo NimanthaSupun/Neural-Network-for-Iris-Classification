@@ -4,8 +4,8 @@ This project demonstrates how to build, train, and use a **Feedforward Neural Ne
 
 It is divided into two main parts:
 
-- `ModelTrain.ipynb`: Model creation, training, and saving
-- `ModelPredict.ipynb`: Model loading and prediction on new data
+- `ModelTrain.html`: Model creation, training, and saving
+- `ModelPredict.html`: Model loading and prediction on new data
 
 ---
 
@@ -13,8 +13,8 @@ It is divided into two main parts:
 
 | File                | Description                                    |
 |---------------------|------------------------------------------------|
-| `ModelTrain.ipynb`   | Jupyter HTML export for training the model     |
-| `ModelPredict.ipynb` | Jupyter HTML export for using the trained model|
+| `ModelTrain.html`   | Jupyter HTML export for training the model     |
+| `ModelPredict.html` | Jupyter HTML export for using the trained model|
 | `FFNN.iris.model.keras` | Saved Keras model (generated after training) |
 | `README.md`         | Project overview and usage guide               |
 
