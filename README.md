@@ -13,8 +13,8 @@ It is divided into two main parts:
 
 | File                | Description                                    |
 |---------------------|------------------------------------------------|
-| `ModelTrain.ipynb`   | Jupyter HTML export for training the model     |
-| `ModelPredict.ipynb` | Jupyter HTML export for using the trained model|
+| `ModelTrain.ipynb`   |  export for training the model     |
+| `ModelPredict.ipynb` |  export for using the trained model|
 | `FFNN.iris.model.keras` | Saved Keras model (generated after training) |
 | `README.md`         | Project overview and usage guide               |
 
